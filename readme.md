@@ -5,10 +5,10 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104.1-green.svg)](https://fastapi.tiangolo.com)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4.4+-green.svg)](https://www.mongodb.com)
 [![React](https://img.shields.io/badge/React-18.0+-blue.svg)](https://reactjs.org)
-[![Node.js](https://img.shields.io/badge/Node.js-16.0+-green.svg)](https://nodejs.org)
+[![Next.js](https://img.shields.io/badge/Next.js-14.0+-black.svg)](https://nextjs.org)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Dhritikrishna123/Actify/main/frontend/public/logo.png" alt="Actify Logo" width="200"/>
+  <img src="frontend/public/actify-logo.png" alt="Actify Logo" width="300"/>
   <br/>
   <strong>🌿 Empowering Communities Through Technology 🤝</strong>
 </div>
@@ -30,7 +30,7 @@ Actify is a revolutionary platform that transforms community engagement through:
 ### Frontend
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
 </p>
@@ -39,7 +39,7 @@ Actify is a revolutionary platform that transforms community engagement through:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
 </p>
 
@@ -48,13 +48,13 @@ Actify is a revolutionary platform that transforms community engagement through:
 ```mermaid
 graph LR
     A[Frontend - React] --> B[FastAPI Backend]
-    A --> C[Node.js Backend]
+    A --> C[Next.js Backend]
     B --> D[(MongoDB)]
     C --> D
     B --> E[AI Services]
     style A fill:#61DAFB
     style B fill:#009688
-    style C fill:#68A063
+    style C fill:#000000
     style D fill:#4DB33D
     style E fill:#FF6B6B
 ```
@@ -168,8 +168,26 @@ npm run dev
 [![Issues](https://img.shields.io/github/issues/Dhritikrishna123/Actify?style=for-the-badge)](https://github.com/Dhritikrishna123/Actify/issues)
 [![MIT License](https://img.shields.io/github/license/Dhritikrishna123/Actify?style=for-the-badge)](https://github.com/Dhritikrishna123/Actify/blob/main/LICENSE)
 
+### Our Amazing Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Dhritikrishna123">
+        <img src="https://avatars.githubusercontent.com/u/Dhritikrishna123" width="100px;" alt="Dhritikrishna"/>
+        <br />
+        <sub><b>Dhritikrishna</b></sub>
+      </a>
+      <br />
+      <a href="#code-Dhritikrishna123" title="Code">💻</a>
+      <a href="#design-Dhritikrishna123" title="Design">🎨</a>
+    </td>
+    <!-- Add more contributors here -->
+  </tr>
+</table>
+
 <a href="https://github.com/Dhritikrishna123/Actify/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Dhritikrishna123/Actify" />
+  <img src="https://contrib.rocks/image?repo=Dhritikrishna123/Actify&columns=6&max=12" />
 </a>
 
 ### Contribution Guidelines
@@ -180,14 +198,9 @@ npm run dev
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-### Top Contributors
-
-<!-- readme: contributors -start -->
-<!-- readme: contributors -end -->
-
 ### Activity
 
-![Alt](https://repobeats.axiom.co/api/embed/your-repobeats-hash.svg "Repobeats analytics image")
+![Actify Repository Activity](https://repobeats.axiom.co/api/embed/your-repobeats-hash.svg "Repobeats analytics image")
 
 ## 📄 License
 
