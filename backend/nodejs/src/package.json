@@ -1,0 +1,10 @@
+{
+  "name": "actify-backend",
+  "version": "1.0.0",
+  "description": "Actify Node.js Backend",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  }
+}
