@@ -162,45 +162,58 @@ npm run dev
 
 ## 👥 Contributing
 
+<div align="center">
+
 [![Contributors](https://img.shields.io/github/contributors/Dhritikrishna123/Actify?style=for-the-badge)](https://github.com/Dhritikrishna123/Actify/graphs/contributors)
 [![Forks](https://img.shields.io/github/forks/Dhritikrishna123/Actify?style=for-the-badge)](https://github.com/Dhritikrishna123/Actify/network/members)
 [![Stars](https://img.shields.io/github/stars/Dhritikrishna123/Actify?style=for-the-badge)](https://github.com/Dhritikrishna123/Actify/stargazers)
 [![Issues](https://img.shields.io/github/issues/Dhritikrishna123/Actify?style=for-the-badge)](https://github.com/Dhritikrishna123/Actify/issues)
 [![MIT License](https://img.shields.io/github/license/Dhritikrishna123/Actify?style=for-the-badge)](https://github.com/Dhritikrishna123/Actify/blob/main/LICENSE)
 
-### Our Amazing Contributors
+### 🌟 Core Team
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <a href="https://github.com/Dhritikrishna123">
-        <img src="https://avatars.githubusercontent.com/u/Dhritikrishna123" width="100px;" alt="Dhritikrishna"/>
+        <img src="https://avatars.githubusercontent.com/Dhritikrishna123" width="100px;" alt="Dhritikrishna"/>
         <br />
         <sub><b>Dhritikrishna</b></sub>
       </a>
       <br />
-      <a href="#code-Dhritikrishna123" title="Code">💻</a>
-      <a href="#design-Dhritikrishna123" title="Design">🎨</a>
+      <sub>
+        <a href="#code-Dhritikrishna123" title="Code">💻</a> 
+        <a href="#design-Dhritikrishna123" title="Design">🎨</a>
+        <a href="#ideas-Dhritikrishna123" title="Ideas & Planning">🤔</a>
+      </sub>
     </td>
-    <!-- Add more contributors here -->
+    <!-- Add more core team members here -->
   </tr>
 </table>
+
+### 🤝 Contributors Wall
 
 <a href="https://github.com/Dhritikrishna123/Actify/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Dhritikrishna123/Actify&columns=6&max=12" />
 </a>
 
-### Contribution Guidelines
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-### Activity
+### 📈 Contribution Stats
 
 ![Actify Repository Activity](https://repobeats.axiom.co/api/embed/your-repobeats-hash.svg "Repobeats analytics image")
+
+### 🚀 How to Contribute
+
+We love your input! We want to make contributing to Actify as easy and transparent as possible. Here's how you can help:
+
+1. 🍴 Fork the repository
+2. 🌿 Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. 💻 Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. 📤 Push to the branch (`git push origin feature/AmazingFeature`)
+5. 🎉 Open a Pull Request
+
+</div>
+
+---
 
 ## 📄 License
 
