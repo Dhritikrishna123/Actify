@@ -199,7 +199,7 @@ npm run dev
 
 ### 📈 Contribution Stats
 
-![Actify Repository Activity](https://repobeats.axiom.co/api/embed/your-repobeats-hash.svg "Repobeats analytics image")
+![Actify Repository Activity](https://repobeats.axiom.co/api/embed/c1fcc28eb601c9658f26d05ff401b04f68a42a31.svg "Repobeats analytics image")
 
 ### 🚀 How to Contribute
 
