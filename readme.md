@@ -162,18 +162,32 @@ npm run dev
 
 ## 👥 Contributing
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Dhritikrishna123">
-        <img src="https://avatars.githubusercontent.com/Dhritikrishna123" width="100px;" alt=""/>
-        <br />
-        <sub><b>Dhritikrishna</b></sub>
-      </a>
-    </td>
-    <!-- Add more contributors as needed -->
-  </tr>
-</table>
+[![Contributors](https://img.shields.io/github/contributors/Dhritikrishna123/Actify?style=for-the-badge)](https://github.com/Dhritikrishna123/Actify/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/Dhritikrishna123/Actify?style=for-the-badge)](https://github.com/Dhritikrishna123/Actify/network/members)
+[![Stars](https://img.shields.io/github/stars/Dhritikrishna123/Actify?style=for-the-badge)](https://github.com/Dhritikrishna123/Actify/stargazers)
+[![Issues](https://img.shields.io/github/issues/Dhritikrishna123/Actify?style=for-the-badge)](https://github.com/Dhritikrishna123/Actify/issues)
+[![MIT License](https://img.shields.io/github/license/Dhritikrishna123/Actify?style=for-the-badge)](https://github.com/Dhritikrishna123/Actify/blob/main/LICENSE)
+
+<a href="https://github.com/Dhritikrishna123/Actify/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Dhritikrishna123/Actify" />
+</a>
+
+### Contribution Guidelines
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+### Top Contributors
+
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
+
+### Activity
+
+![Alt](https://repobeats.axiom.co/api/embed/your-repobeats-hash.svg "Repobeats analytics image")
 
 ## 📄 License
 
