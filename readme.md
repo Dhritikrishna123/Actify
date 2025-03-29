@@ -8,7 +8,7 @@
 [![Next.js](https://img.shields.io/badge/Next.js-14.0+-black.svg)](https://nextjs.org)
 
 <div align="center">
-  <img src="./frontend/public/actify-logo.png" alt="Actify - Act Today, Impact Tomorrow" width="400"/>
+  <img src="https://raw.githubusercontent.com/Dhritikrishna123/Actify/main/frontend/public/actify-logo.png" alt="Actify - Act Today, Impact Tomorrow" width="400"/>
   <br/>
   <strong>🌿 Empowering Communities Through Technology 🤝</strong>
 </div>
